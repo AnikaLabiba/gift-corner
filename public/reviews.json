@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Jan David",
+        "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/glock.png",
+        "rating": "5",
+        "description": "This guys are doing a great job, there service is really amaizing. Definatly recomonded."
+    },
+    {
+        "id": 2,
+        "name": "Sanem",
+        "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/FN.png",
+        "rating": "5",
+        "description": "This guys are doing a great job, there service is really amaizing. Definatly recomonded."
+    },
+    {
+        "id": 3,
+        "name": "Kim  Jackson",
+        "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/ki%2Cber.png",
+        "rating": "5",
+        "description": "This guys are doing a great job, there service is really amaizing. Definatly recomonded."
+    },
+    {
+        "id": 4,
+        "name": "Felix Krueger",
+        "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/beretta.png",
+        "rating": "5",
+        "description": "This guys are doing a great job, there service is really amaizing. Definatly recomonded."
+    },
+    {
+        "id": 5,
+        "name": "Jeby Jahin",
+        "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/beretta-shotgun.png",
+        "rating": "5",
+        "description": "This guys are doing a great job, there service is really amaizing. Definatly recomonded."
+    },
+    {
+        "id": 6,
+        "name": "Tim Harry",
+        "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/benalim4.png",
+        "rating": "5",
+        "description": "This guys are doing a great job, there service is really amaizing. Definatly recomonded."
+    },
+    {
+        "id": 7,
+        "name": "Hamaonie",
+        "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/Browning.png",
+        "rating": "5",
+        "description": "This guys are doing a great job, there service is really amaizing. Definatly recomonded."
+    },
+    {
+        "id": 8,
+        "name": "Mr. Ron",
+        "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/winchester.png",
+        "rating": "5",
+        "description": "This guys are doing a great job, there service is really amaizing. Definatly recomonded."
+    },
+    {
+        "id": 9,
+        "name": "Anandita",
+        "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/bergara.png",
+        "rating": "5",
+        "description": "This guys are doing a great job, there service is really amaizing. Definatly recomonded."
+    },
+    {
+        "id": 10,
+        "name": "Smith Chris Rock",
+        "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/S%26WM%26P15.png",
+        "rating": "5",
+        "description": "This guys are doing a great job, there service is really amaizing. Definatly recomonded."
+    }
+]
