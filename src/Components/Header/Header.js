@@ -8,9 +8,9 @@ const Header = () => {
     return (
         <div>
             <Navbar
-                className='navbar' collapseOnSelect expand="lg" variant="light" style={pathname.includes('blog') ? { display: 'none' } : { display: 'flex' }}>
+                className='navbar p-3' collapseOnSelect expand="lg" variant="light" style={pathname.includes('blog') ? { display: 'none' } : { display: 'flex' }}>
                 <Container >
-                    <NavLink className='logo' to='/'>Gift Corner</NavLink>
+                    <NavLink className='logo' to=''>Gift Corner</NavLink>
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                     <Navbar.Collapse id="responsive-navbar-nav">
 
