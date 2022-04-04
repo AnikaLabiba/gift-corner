@@ -1,0 +1,10 @@
+.review-card{
+    box-shadow: rgba(30, 145, 194, 0.582) 0px 1px 4px;
+    border-radius: 5px;
+}
+.review-card img{
+width: 95px;
+}
+.star{
+    color: rgba(231, 231, 18, 0.925);
+}
