@@ -22,15 +22,18 @@ const Home = () => {
                 </div>
             </div>
 
-            <div className="customers-review">
+            <div className="customers-review my-5 ">
                 <h3 className='text-center mt-5'>Customers Reviews</h3>
-                <div className="grid-box">
+                <div className="grid-box mt-4">
                     {selectedReviews.map(review => <Review
                         key={review.id}
                         review={review}
                     ></Review>)}
                 </div>
-                <Link to='/reviews'><button>See all</button></Link>
+                <div className='btn w-100'>
+                    <Link to='/reviews'><button className='seeAll-btn fs-5'>See all</button></Link>
+                </div>
+
             </div>
         </div>
     );

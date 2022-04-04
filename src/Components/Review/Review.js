@@ -5,7 +5,7 @@ import { BsFillStarFill } from 'react-icons/bs';
 const Review = (props) => {
     const { img, name, description, rating } = props.review
     return (
-        <div className='review-card p-4 my-2'>
+        <div className='review-card my-2'>
             <div className='d-flex align-items-center'>
                 <img src={img} alt="" />
                 <h5 className='ms-3'>{name}</h5>
@@ -13,7 +13,7 @@ const Review = (props) => {
             <p>{description}</p>
             <div className='d-flex align-items-center'>
                 <p>{rating}</p>
-                <p className='ms-5'>
+                <p className='ms-3'>
                     {
                         [...Array(5)].map(star => {
                             return <BsFillStarFill className='star' />

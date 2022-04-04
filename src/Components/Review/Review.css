@@ -1,6 +1,7 @@
 .review-card{
     box-shadow: rgba(30, 145, 194, 0.582) 0px 1px 4px;
     border-radius: 5px;
+    padding: 10px 15px 6px;
 }
 .review-card img{
 width: 95px;
