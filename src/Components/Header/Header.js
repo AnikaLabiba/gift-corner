@@ -4,11 +4,11 @@ import { NavLink, useLocation } from 'react-router-dom';
 import './Header.css'
 
 const Header = () => {
-    const { pathname } = useLocation()
+
     return (
         <div>
             <Navbar
-                className='navbar p-3' collapseOnSelect expand="lg" variant="light" style={pathname.includes('blog') ? { display: 'none' } : { display: 'flex' }}>
+                className='navbar p-3' collapseOnSelect expand="lg" variant="light">
                 <Container >
                     <NavLink className='logo' to=''>Gift Corner</NavLink>
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />

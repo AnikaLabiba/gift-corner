@@ -1,0 +1,21 @@
+.charts{
+    display: grid;
+    grid-template-columns: 7fr 5fr;
+    
+}
+@media screen and (max-width:490px) {
+    .charts{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 20px;
+    }
+     
+  }
+  @media screen and (max-width:870px) and (min-width:491px) {
+    .charts{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;
+    } 
+    
+  }
